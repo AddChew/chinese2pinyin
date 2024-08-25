@@ -1,0 +1,4 @@
+notebook==7.2.1
+pinyin==0.4.0
+pypinyin==0.52.0
+pinyin_jyutping_sentence==1.3
